@@ -57,7 +57,7 @@ Ajuste os valores conforme sua necessidade.
 
 ```bash
 git clone https://github.com/SamuelSilva-DEVL/gerador-qrcode-e-senha.git
-cd gerador-qrcode-e-senhas
+cd gerador-qrcode-e-senha
 ```
 
 2. **Instale as dependências:**
